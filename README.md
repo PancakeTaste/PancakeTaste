@@ -1,6 +1,6 @@
-# Hello, I'm Pancake! 👋
+# Greetings! 👋
 
-I'm a developer from Romania who loves coding. Started with Minecraft when I was 11, creating a server with friends got me into coding.
+Started with Minecraft when I was 11, creating a server with friends got me into coding.
 
 ## Skills
 
