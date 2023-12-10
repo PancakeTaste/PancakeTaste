@@ -14,7 +14,7 @@ Started with Minecraft when I was 11, creating a server with friends got me into
 
 - **System Administration:** Proficient in managing and maintaining server infrastructure, ensuring optimal performance, security, and reliability.
 
-- **Adaptability:** I enjoy exploring different programming languages and tackling various challenges.
+- **Adaptability:** I enjoy exploring diverse interests and taking on various challenges.
 
 ## Connect with Me
 
