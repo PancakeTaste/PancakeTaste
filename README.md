@@ -12,6 +12,8 @@ Started with Minecraft when I was 11, creating a server with friends got me into
 
 - **Databases:** I work with databases like MySQL, SQLite, and MongoDB.
 
+- **System Administration:** Proficient in managing and maintaining server infrastructure, ensuring optimal performance, security, and reliability.
+
 - **Adaptable Programmer:** I enjoy exploring different programming languages and tackling various challenges.
 
 ## Connect with Me
