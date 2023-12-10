@@ -17,7 +17,3 @@ I'm a developer from Romania who loves coding. Started with Minecraft when I was
 ## Connect with Me
 
 - **Discord:** [pancaketaste](https://discord.com/users/385496534051061763)
-
-## Collaboration
-
-Excited for coding adventures! If you have a project, let's make it awesome together!
