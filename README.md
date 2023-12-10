@@ -4,7 +4,7 @@ Started with Minecraft when I was 11, creating a server with friends got me into
 
 ## Skills
 
-- **Web Development:** I use React.js, Express.js, and sometimes Spring Boot to make exceptional websites.
+- **Web Development:** I use React.js, Express.js, and sometimes Spring Boot or PHP to make exceptional websites.
 
 - **Discord Bots:** I bring new features on Discord servers using [JDA](https://github.com/discord-jda/JDA).
 
